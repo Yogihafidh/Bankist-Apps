@@ -22,3 +22,8 @@ This project was built to reinforce advanced JavaScript concepts including:
 - Data transformations with array methods
 - Real-time UI updates
 - Application state management
+
+# Sample Access
+Yogi Hafidh.
+- username : YH
+- PIN : 1111
