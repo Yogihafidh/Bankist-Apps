@@ -24,6 +24,10 @@ This project was built to reinforce advanced JavaScript concepts including:
 - Application state management
 
 # Sample Access
+Jessica Davis
+- Username: Jd
+- PIN: 2222
+
 Yogi Hafidh.
 - username : YH
 - PIN : 1111
